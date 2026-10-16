@@ -1,0 +1,22 @@
+# Prenájom, zariadený 3 izbový byt, Sladovnícka, 4 lôžka
+
+> Ponúkame na prenájom zariadený 3-izbový byt s výmerou 57 m² na Sladovníckej ulici v Trnave, vo výbornej polohe s rýchlou dostupnosťou do centra mesta aj na diaľnicu. Byt sa nachádza na 2. poschodí a je vhodný najmä pre študentov, mladých pracujúcich alebo pracujúci pár. K dispozícii sú celkovo 4 lôžka, vďaka čomu môže byť zaujímavou voľbou aj pre spoločné bývanie viacerých študentov. Dispozične po
+
+## Fakta
+- Typ: byt
+- Druh nabídky: prenájom
+- Dispozice: 3-izbový
+- Plocha: 57 m²
+- Podlaží: 2
+- Stav: čiastočne prerobený
+- Vlastnictví: osobné
+- Energetická náročnost: C
+- Lokalita: Trnava
+- Cena: 800,- €
+
+## Kontakt
+- Makléř: Peter Vozár
+- Telefon: +421911747932
+- E-mail: peter.vozar@reality-trnava.sk
+- Kancelář: reality-trnava.sk
+- Web kanceláře: https://www.reality-trnava.sk/
